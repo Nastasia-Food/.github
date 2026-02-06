@@ -91,8 +91,7 @@ Be part of the Nastasia Food Ecosystem and experience the future of food orderin
 
 For more information or to get started, reach out to us:
 
-- **Email**: support@rechain.network
-- **Website**: [food.natalee.pro](https://food.natalee.pro)
+- **Email**: dmitry.justdev@gmail.com
 - **Community**: Join the conversation at [Telegram](https://t.me/rechainchat/1114)
 
 ---
